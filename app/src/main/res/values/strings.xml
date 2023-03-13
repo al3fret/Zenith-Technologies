@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bilal QwatlyTest</string>
+
+    <!-- General -->
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="aed">AED</string>
+    <string name="products_capital">PRODUCTS</string>
+
+</resources>
